@@ -1,4 +1,4 @@
-Blockchain built using Django (Python)
+Basic Blockchain implementation using Django (Python) 
 
 Go through urls.py for api details and see correspoding views (to get details about context).
 
